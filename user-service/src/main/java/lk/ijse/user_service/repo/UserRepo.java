@@ -19,6 +19,7 @@ public interface UserRepo extends JpaRepository<User, Integer> {
     @Query("SELECT MAX(u.u_id) FROM User u")
     Integer findMaxId();
 
+    boolean existsById(int id);
 
     //    jwt
     User findByEmail(String userName);

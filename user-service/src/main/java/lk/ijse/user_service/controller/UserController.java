@@ -126,6 +126,11 @@ public class UserController {
         }
     }
 
+    @GetMapping("/exists/{id}")
+    public boolean isUserExists(@PathVariable int id) {
+        return userService.existsById(id);
+    }
+
 
 
 }

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Smart_Parking_Management_System.iml" filepath="$PROJECT_DIR$/.idea/Smart_Parking_Management_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-service/parking-service.iml" filepath="$PROJECT_DIR$/parking-service/parking-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicle-service/vehicle-service.iml" filepath="$PROJECT_DIR$/vehicle-service/vehicle-service.iml" />
     </modules>
   </component>
 </project>

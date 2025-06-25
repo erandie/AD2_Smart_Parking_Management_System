@@ -188,4 +188,10 @@ public class UserServiceImpl implements UserDetailsService, UserService {
         return null;
     }
 
+    @Override
+    public boolean existsById(int id) {
+        return userRepo.existsById(id);
+    }
+
+
 }

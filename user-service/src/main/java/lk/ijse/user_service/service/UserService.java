@@ -16,4 +16,7 @@ public interface UserService {
     UserDTO searchUser(String username);
 
     UserDTO getUserById(int u_id);
+
+
+    public boolean existsById(int id);
 }
