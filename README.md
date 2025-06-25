@@ -1,4 +1,5 @@
-[Smart Parking Management System.postman_collection.json](https://github.com/user-attachments/files/20907130/Smart.Parking.Management.System.postman_collection.json)Eureka Dashboard Screen Shot - ![EurekaDashboard](https://github.com/user-attachments/assets/b28efa60-f511-4af6-b071-0c10e1f8d7a8)
+Smart Parking Management System Eureka Dashboard Image - ![image](https://github.com/user-attachments/assets/3730e291-6dd5-450b-93b0-321684af9b95)
+
 
 Smart Parking Management System Json File - [Uplo{
 	"info": {
